@@ -1,0 +1,18 @@
+id: IC62A4766
+default_language: es
+source: https://www.lotsawahouse.org
+initial_creation_type: web_scrap
+imported: 2023-01-04 11:28:09.263291
+last_modified: 2023-01-04 11:28:09.263299
+source_metadata:
+  collections:
+  - Alak Zenkar Rinpoche
+  - Works of Tibetan Masters
+bases:
+  FF51:
+    title: Biography of Patrul Rinpoche
+    base_file: FF51.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
